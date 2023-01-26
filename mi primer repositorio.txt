@@ -1,2 +1,2 @@
-mi primer commit sincronizado"
+"mi segundo commit sincronizado"
 
