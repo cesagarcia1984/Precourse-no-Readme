@@ -1,3 +1,2 @@
-cesar garcia
+mi primer commit sincronizado"
 
-hola mundo
